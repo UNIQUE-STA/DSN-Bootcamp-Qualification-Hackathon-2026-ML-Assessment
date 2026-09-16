@@ -1,6 +1,5 @@
 """
 DSN Bootcamp Qualification Hackathon 2026 - ML Track
-Full pipeline: cleaning -> feature engineering -> baseline -> LightGBM -> submission
 """
 import pandas as pd
 import numpy as np
