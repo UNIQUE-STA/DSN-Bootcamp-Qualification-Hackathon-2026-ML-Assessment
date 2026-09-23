@@ -91,9 +91,3 @@ the reason the final version here sticks to a smaller, individually-validated se
 features rather than everything I tried along the way, on a dataset this size, added
 complexity needs to earn its place feature by feature, not all at once.
 
-## How to run
-
-```bash
-pip install -r requirements.txt
-python final_model.py
-```
